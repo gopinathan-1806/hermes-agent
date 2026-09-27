@@ -4,6 +4,10 @@ Run the below command to install the agent on VM.
 curl -fsSL https://hermes-agent.nousresearch.com/install.sh | bash
 
 Select all the services like LLM (GPT model), Telegram, Camofox, KittenTTS, SearXNG.
+You will get the below screen once the installation completed on VM
+
+<img width="1332" height="893" alt="image" src="https://github.com/user-attachments/assets/7dfd2320-e7cf-4096-a30a-e4606fe961ba" />
+
 
 ## Create new BOT on telegram on BotFather channel
 
