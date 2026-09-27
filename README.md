@@ -20,5 +20,6 @@ Paste the token on telegram authentication on VM.
 
 <img width="834" height="817" alt="image" src="https://github.com/user-attachments/assets/e0f1811b-8e6e-4783-a319-67ff2c9102b2" />
 
+## Execution flow
 
-
+<img width="1225" height="1284" alt="k8s autogeb agent" src="https://github.com/user-attachments/assets/8abe2a95-f488-492d-985a-6d271e85ea08" />
