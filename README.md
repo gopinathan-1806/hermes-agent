@@ -7,7 +7,8 @@ Select all the services like LLM (GPT model), Telegram, Camofox, KittenTTS, Sear
 
 ## Create new BOT on telegram on BotFather channel
 
-<img width="752" height="296" alt="image" src="https://github.com/user-attachments/assets/c4264aee-b6c7-48b7-b1e2-65d4d19a2c76" />
+<img width="808" height="817" alt="image" src="https://github.com/user-attachments/assets/5d178f13-38b6-44b9-a4c1-aaf1a3c593a6" />
+
 
 Paste the token on telegram authentication on VM.
 
